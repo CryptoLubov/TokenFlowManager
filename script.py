@@ -11,3 +11,4 @@
 # fix 2823
 # refactor 3160
 # refactor 6686
+# fix 7796
