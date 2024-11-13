@@ -65,3 +65,4 @@ aiohttp==1.5.8
 eth-abi==1.6.2
 aiohttp==1.7.0
 pydantic==1.2.7
+pydantic==0.0.8
